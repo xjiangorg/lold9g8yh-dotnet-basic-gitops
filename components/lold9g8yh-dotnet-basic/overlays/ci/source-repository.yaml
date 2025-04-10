@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lold9g8yh-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/lold9g8yh-dotnet-basic
